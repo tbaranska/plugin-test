@@ -4,7 +4,7 @@
     "name": "My First Plugin",
     "entryPoint": "my-first-plugin.py",
     "categories": ["disassembly-and-processor-modules"],
-    "logoUrl": "logo.jpg",
+    "logoPath": "logo.jpg",
     "idaVersions": "9.1.0",
     "description" : "The exemplary description of your plugin's functionality",
     "version": "1.1.2"
